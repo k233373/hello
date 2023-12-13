@@ -1,3 +1,3 @@
 class Hello{
-  static void main() { System.out.print("hello."); }
+  static void main(String[] args) { System.out.print("hello."); }
 }
